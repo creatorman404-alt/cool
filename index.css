@@ -42,6 +42,7 @@ nav h4:hover {
 
 .profile-container {
   display: flex;
+  margin-top: 30px;
   justify-self: center;
     position: relative;
   width: 200px;  /* Match your profile image width */
